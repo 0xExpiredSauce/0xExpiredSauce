@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoeMish
+- 👋 Hi, I’m @JoeMish and I am a Blockchain Recruiter
 - 👀 I’m interested in exploring Blockchain technologies and playing around coding a bit on my own / connecting with others
 - 🌱 I’m currently learning solidity (not very good atm), but mainly looking to get a bit more technical (have taken classes in python and html)
 - 📫 Reach me on telegram or twitter @JoeMiscioscia
